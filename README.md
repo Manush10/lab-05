@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** `Manush Patel`
+- **Full Name:** `Manush Hareshkumar Patel`
 - **CCID:** `manush`
 
 ## References and Resources
