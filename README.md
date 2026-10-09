@@ -7,8 +7,12 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+ -I noticed renaming a city didn't change its document ID, and Claude gave me the idea to delete the old document and create a new one with the new name (Anthropic, 2026).
 
+Anthropic. (2026, October 6).  Claude. https://claude.ai
+
+
+ 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
